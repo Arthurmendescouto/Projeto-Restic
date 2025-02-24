@@ -11,5 +11,7 @@ Este projeto é uma aplicação de lista de tarefas com armazenamento local das 
 
 - React Native
 - TypeScript
+- HTML
+- CSS
 --Expo
 
